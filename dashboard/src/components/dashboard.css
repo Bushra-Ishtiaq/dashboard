@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,600;0,700;1,300&display=swap');
+
+/* *{
+    background-color: black;
+} */
+body{
+    /* background-color: rgb(148, 11, 11); */
+    /* color: white; */
+    font-family: 'Nunito', sans-serif;
+}
+.widgetWrap{
+    background: #2a2a2a;
+}
+.widgetTitle{
+    border-bottom: 2px solid #665151;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px 10px;
+    color:rgb(207, 201, 201);
+}
+/* .widgetValue .value{
+    font-size: 57px;
+    font-weight: 700;
+    text-align: left;
+    padding: 0px 7px;
+    line-height: 100%;
+} */
+.description{
+    text-align: left;
+    font-size: 12px;
+    padding-left: 13px;
+}
+text{
+    fill: white;
+}
+.TopHeader .col{
+    background: #2a2a2a;
+    color: #fd6e6a;
+    margin-bottom: 19px;
+    padding: 6px 15px;
+    font-size: 16px;
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+/* .TopHeader .row{
+    background-color: blue;
+} */
+.widgetWrap{
+    height: 210px;
+    margin-bottom: 20px;
+}
+.widgetWrap .value{
+    font-size: 57px;
+    color: #fd6e6a;
+    text-align: left;
+    padding: 0px 7px;
+    line-height: 430%;
+}
+.mainDashboard{
+    width: 75%;
+}

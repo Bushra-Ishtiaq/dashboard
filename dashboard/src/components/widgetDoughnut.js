@@ -11,7 +11,7 @@ function widgetDoughnut(props) {
     const chartConfigs = {
         type: "doughnut2d", // The chart type
         width: "100%", // Width of the chart
-        height: "125", // Height of the chart
+        height: "135", // Height of the chart
         dataFormat: "json", // Data type
         dataSource: {
             // Chart Configuration

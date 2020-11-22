@@ -9,9 +9,9 @@ function widgetBar(props) {
 
     // Create a JSON object to store the chart configurations
     const chartConfigs = {
-        type: "bar2d", // The chart type
+        type: "bar3d", // The chart type
         width: "100%", // Width of the chart
-        height: "125", // Height of the chart
+        height: "145", // Height of the chart
         dataFormat: "json", // Data type
         dataSource: {
             // Chart Configuration
